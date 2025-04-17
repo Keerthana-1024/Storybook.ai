@@ -25,7 +25,7 @@ A conversational AI chatbot powered by **LangChain** and **ChatOllama** models t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/harry-potter-chatbot.git
+   git clone https://github.com/keerthana-1024/harry-potter-chatbot.git
    cd harry-potter-chatbot
    ```
 
