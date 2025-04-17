@@ -1,0 +1,41 @@
+What does the spell Expelliarmus do?,unknown,structured
+What happened during the Triwizard Tournament?,event,structured
+1,What happened during the Triwizard Tournament?,QA,structured,2025-04-16 17:04:34
+0,1,what is the significance of harry's scar,qa,structured,2025-04-16 22:37:35,28.615
+0,2,when and how did this happen,qa,structured,2025-04-16 22:38:28,8.228
+0,3,what happened in the triwizard tournament,event,freeform,2025-04-16 22:39:38,26.012
+0,4,what happened during triwizard ?,event,structured,2025-04-16 22:40:30,33.186
+0,5,Why was Harry forced to compete even though he didn’t enter his name?,qa,structured,2025-04-16 22:41:43,15.215
+0,6, What role did Barty Crouch Jr. play in manipulating the tournament from within?,qa,structured,2025-04-16 22:43:21,26.954
+0,7,"How did each task test different qualities in the champions—like courage, intelligence, or morality?",qa,freeform,2025-04-16 22:46:09,27.835
+0,8,What were the consequences of Cedric Diggory’s death for the wizarding world?,qa,structured,2025-04-16 22:48:57,59.726
+0,9,What were the consequences of Cedric Diggory’s death for the wizarding world?,qa,freeform,2025-04-16 22:52:20,38.777
+0,10,What were the consequences of Cedric Diggory’s death for the wizarding world?,qa,freeform,2025-04-16 22:53:04,30.388
+0,1,what is the significance of harry's scar,qa,freeform,2025-04-16 23:12:46,21.324
+0,2,hi,qa,freeform,2025-04-17 00:03:32,9.9
+0,3,what to study today ?,qa,freeform,2025-04-17 00:04:01,4.834
+0,1,what is the significance of harry's scar,qa,freeform,2025-04-17 21:21:47,30.185
+0,2,what is the significance of harry's scar,qa,structured,2025-04-17 21:22:35,14.964
+0,1,what is the significance of harry's scar,qa,freeform,2025-04-17 21:26:41,15.616,0.7936310511467372,1
+0,1,what is the significance of harry's scar,qa,freeform,2025-04-17 21:27:57,13.243,0.8571275211198981,1
+0,2,what is the significance of harry's scar,qa,structured,2025-04-17 21:28:29,14.617,0.830338778217366,1
+0,3,what happened in the triwizard tournament,event,structured,2025-04-17 21:32:09,28.547,0.5869752912313515,1
+0,1,asdfghjkl,qa,freeform,2025-04-17 21:34:45,8.06,0.5727837245767378,0.688
+0,2,Tell me about Professor Binns.,qa,structured,2025-04-17 21:35:30,21.888,0.5976570480595954,1
+0,3,	Tell me the personality plot event magic of Ron,character,structured,2025-04-17 21:36:43,24.383,0.6125455499481998,1
+0,4,	Explain everything about Harry Potter.,qa,structured,2025-04-17 21:37:52,38.403,0.6159953987443072,1
+0,5,	Who won the House Cup in Book 1?,qa,structured,2025-04-17 21:38:57,12.092,0.6780917802214516,0.976
+0,6,was Hermione’s pet an owl named Trevor.,qa,structured,2025-04-17 21:42:01,10.459,0.858164979464434,0.68
+0,7,"int main(){printf(""gahihibub""); return 0;} explain",qa,structured,2025-04-17 21:43:14,10.351,0.7579782173260519,0.916
+0,8,explain everything about harry potter ,qa,structured,2025-04-17 21:46:12,63.439,0.6556794491163296,1
+0,1,what is the significance of harry's scar,qa,freeform,2025-04-17 21:52:27,26.424,0.7747286746248923,1,0.22527132537510774
+0,2,What happened in the triwizard ,event,freeform,2025-04-17 21:53:44,35.116,0.4461652496839424,1,0.5538347503160577
+0,1,what is the significance of harry's scar,qa,structured,2025-04-17 21:58:54,16.671,0.8067159399561818,1,0.19328406004381815
+0,2,int main(){return 0;} explain this code,qa,structured,2025-04-17 21:59:30,9.95,0.816739031081009,0.938,0.18326096891899102
+0,3,explain harry potter full story,qa,structured,2025-04-17 22:00:52,35.144,0.6205650108906786,1,0.3794349891093214
+0,4,who is harry potter,qa,structured,2025-04-17 22:01:35,8.628,0.7620747551437528,0.666,0.23792524485624722
+0,1,who is harry potter,qa,freeform,2025-04-17 22:06:33,12.875,0.7430645219683503,1,0.25693547803164973
+0,1,what is triwizard ?,qa,freeform,2025-04-17 22:22:55,27.23,0.555546109137888,1,0.44445389086211196
+0,2,who is ron,qa,freeform,2025-04-17 22:23:17,4.462,0.7298770212248347,0.26,0.27012297877516533
+0,3,who is ron weasly,qa,freeform,2025-04-17 22:24:10,10.267,0.6743820330347798,0.71,0.32561796696522016
+0,4,who is ron,qa,freeform,2025-04-17 22:24:32,4.251,0.7212385931479885,0.236,0.27876140685201145

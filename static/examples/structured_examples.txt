@@ -1,0 +1,45 @@
+Example 1:
+Input: "Why did Harry Potter first go to Hogwarts?"
+Output:
+1. **Reason**: Harry first went to Hogwarts because he was invited after discovering that he was a wizard. 
+2. **Context**: Harry had been raised by the Dursleys, who kept him unaware of his magical heritage. The invitation came on his 11th birthday, marking a pivotal moment in his life.
+3. **Impact**: This invitation led to his exposure to the magical world and his journey into Hogwarts, where he would not only learn about magic but also uncover details about his past and destiny.
+4. **Significance**: Going to Hogwarts allowed Harry to make friends, like Ron and Hermione, and begin his education in the magical world. It also set the stage for the greater challenges and adventures he would face.
+
+Example 2:
+Input: "What’s the significance of the Marauder’s Map?"
+Output:
+1. **Creation**: The Marauder’s Map was created by James Potter, Sirius Black, Remus Lupin, and Peter Pettigrew during their time at Hogwarts.
+2. **Purpose**: The map serves to show the entire layout of Hogwarts, including hidden passages, and the location of every person within the castle.
+3. **Functionality**: It played a vital role in the adventures of Harry and his friends, allowing them to sneak around Hogwarts without being caught. They use it to explore the castle, find secret areas, and discover hidden truths.
+4. **Legacy**: The map symbolizes the deep bond between Harry and his father, James Potter, as it was created by him and his friends. It is a powerful artifact of the Marauders’ mischievous legacy.
+5. **Important Use**: Harry uses the map to find and rescue Sirius Black and to uncover other mysteries in the magical world. The map also helps him evade enemies and navigate through dangerous situations.
+
+Example 3 (Edge Case):
+Input: "Explain the role of Hagrid in the first book."
+Output:
+1. **Character Introduction**: Hagrid is introduced as a giant of a man with a rough exterior but a kind heart. He is one of the first people to treat Harry with kindness.
+2. **Actions**: He delivers Harry’s Hogwarts letter and takes him to Diagon Alley for the first time. Hagrid also assists Harry in his transition into the magical world, introducing him to new concepts and friends.
+3. **Significance**: Hagrid’s role is essential for Harry’s emotional and mental growth. His loyalty and friendship provide Harry with the support he lacked growing up with the Dursleys.
+4. **Mentorship**: Hagrid serves as a mentor throughout the book, guiding Harry through various challenges, such as his encounter with the dragon Norbert, and offering emotional support during difficult times.
+5. **Symbolism**: Hagrid represents loyalty, bravery, and compassion in the series. His willingness to defy authority and help his friends sets an example of what it means to stand up for what is right.
+
+Example 4 (Edge Case):
+Input: "Can you describe the timeline of events in the first book?"
+Output:
+1. **Introduction**: The story begins with Harry’s birthday, which marks his 11th year. He learns that he is a wizard and receives his invitation to Hogwarts.
+2. **Key Events**:
+   - **Arrival at Hogwarts**: Harry arrives at Hogwarts and is sorted into Gryffindor.
+   - **Friendships**: He befriends Ron Weasley and Hermione Granger.
+   - **Challenges**: Harry faces various challenges, such as fighting a troll and solving the mystery of the Philosopher’s Stone.
+   - **Confrontation**: The climax occurs when Harry confronts Professor Quirrell and Lord Voldemort in the underground chambers.
+3. **Resolution**: The story concludes with Harry’s victory over Voldemort’s followers, marking his first major victory in the magical world.
+4. **Impact**: This sets the stage for Harry’s future adventures and solidifies his role as a central figure in the fight against dark forces.
+
+Example 5 (General):
+Input: "What happens at the end of 'Harry Potter and the Chamber of Secrets'?"
+Output:
+1. **Final Battle**: The final events take place in the Chamber of Secrets, where Harry faces Tom Riddle, who reveals himself as a younger version of Voldemort.
+2. **Resolution**: Harry uses the Sword of Gryffindor to defeat the basilisk, a giant snake that has been terrorizing the school. He also destroys Riddle's diary, ending the control over Ginny Weasley.
+3. **Aftermath**: Harry is hailed as a hero, and the school is saved from the dark forces threatening it. This event further strengthens Harry’s bond with his friends and with his father, as he wields his father’s sword in the final battle.
+4. **Legacy**: The events in this book are key in shaping Harry's destiny, as they demonstrate his bravery, resourcefulness, and ability to confront evil head-on.
