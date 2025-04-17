@@ -39,7 +39,7 @@ A conversational AI chatbot powered by **LangChain** and **ChatOllama** models t
 
    ```
    LANGCHAIN_API_KEY=your_langchain_api_key
-   LANGCHAIN_TRACING_V2=true
+   OPENAI_API_KEY=your_openai_api_key
    ```
 
 ---
