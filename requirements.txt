@@ -1,9 +1,14 @@
+streamlit
+python-dotenv
+scikit-learn
+numpy
+huggingface-hub
 openai
 langchain
 langchain-openai
-langchain_community
+langchain-community
 langserve
-sse_starlette
+sse-starlette
 langchain-chroma
 Flask
 flask-cors
