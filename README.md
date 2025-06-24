@@ -8,7 +8,7 @@ A conversational AI chatbot powered by **LangChain** and **ChatOllama** models t
 
 ---
 
-## 🧙 Features
+## Features
 
 - **Intent Classification:** Classifies user queries into categories like `character`, `plot`, `event`, or `qa`.
 - **Retrieval-Based Question Answering:** Uses document retrieval for precise answers.
@@ -20,7 +20,7 @@ A conversational AI chatbot powered by **LangChain** and **ChatOllama** models t
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Clone the repository:
 
@@ -44,7 +44,7 @@ A conversational AI chatbot powered by **LangChain** and **ChatOllama** models t
 
 ---
 
-## 🛠️ Usage
+## Usage
 
 1. Launch the app with **Streamlit**:
 
@@ -58,7 +58,7 @@ A conversational AI chatbot powered by **LangChain** and **ChatOllama** models t
 
 ---
 
-## 💡 Intent Classification
+## Intent Classification
 
 The chatbot classifies user inputs into the following intents:
 
@@ -69,7 +69,7 @@ The chatbot classifies user inputs into the following intents:
 
 ---
 
-## ⚙️ How it Works
+## How it Works
 
 1. **Retrieval:** The bot retrieves contextually relevant information from the **Chroma vector database**.
 2. **Intent Classification:** It classifies the user query into one of the predefined intents.
@@ -79,7 +79,7 @@ The chatbot classifies user inputs into the following intents:
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 This project leverages the following technologies and libraries:
 
